@@ -1,1 +1,2 @@
 This is just a basic repository to refresh and practice my basic HTML CSS and JS knowledge
+- This practice code was written based on a course offered by Duke University on Coursera. [Link] (https://www.coursera.org/learn/duke-programming-web/)
