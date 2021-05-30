@@ -1,0 +1,1 @@
+This is just a basic repository to refresh and practice my basic HTML CSS and JS knowledge
